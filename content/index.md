@@ -23,6 +23,7 @@ title: Maria Antonia Oprea
 ## Publications
 
 - [*A Study of the Long-Term Behavior of Hybrid Systems with Symmetries via Reduction and the Frobenius-Perron Operator*](https://arxiv.org/abs/2111.11645), Maria Oprea, Aden Shaw, Robi Huq, Kaito Iwasaki, Dora Kassabova, and William Clark, SIADS, 2024
+%%
 
 <table>
     <tr>
@@ -31,10 +32,9 @@ title: Maria Antonia Oprea
 ``` </p> </div>  </td>
     </tr>
 </table>
-
-
+%%
 -  [*Measure-Theoretic Time-Delay Embedding*](https://arxiv.org/abs/2409.08768), Jonah Botvinick Greenhouse, Maria Oprea, Yunan Yang and Romit Maulik, preprint, 2024
-
+%%
 <table>
     <tr>
         <td> <div class="click-to-reveal"> <button onclick="toggleContent()">Abstract</button> <div id="hidden-content" style="display: none;"> <p>The celebrated Takens' embedding theorem provides a theoretical foundation for reconstructing the full state of a dynamical system from partial observations. However, the classical theorem assumes that the underlying system is deterministic and that observations are noise-free, limiting its applicability in real-world scenarios. Motivated by these limitations, we rigorously establish a measure-theoretic generalization that adopts an Eulerian description of the dynamics and recasts the embedding as a pushforward map between probability spaces. Our mathematical results leverage recent advances in optimal transportation theory. Building on our novel measure-theoretic time-delay embedding theory, we have developed a new computational framework that forecasts the full state of a dynamical system from time-lagged partial observations, engineered with better robustness to handle sparse and noisy data. We showcase the efficacy and versatility of our approach through several numerical examples, ranging from the classic Lorenz-63 system to large-scale, real-world applications such as NOAA sea surface temperature forecasting and ERA5 wind field reconstruction.</p> </div> </div> </td><td><div class="click-to-reveal"> <button onclick="toggleContent()">Cite</button> <div id="hidden-content" style="display: none;"> <p>```@misc{botvinickgreenhouse2024measuretheoretictimedelayembedding,
@@ -49,10 +49,10 @@ title: Maria Antonia Oprea
 ``` </p> </div>  </td>
     </tr>
 </table>
-
+%%
 
 -  [*Stochastic Inverse Problem: stability, regularization and Wasserstein gradient flow*](https://arxiv.org/abs/2410.00229), Qin Li, Maria Oprea, Li Wang and Yunan Yang, preprint, 2024
-
+%%
 <table>
     <tr>
         <td> <div class="click-to-reveal"> <button onclick="toggleContent()">Abstract</button> <div id="hidden-content" style="display: none;"> <p>Inverse problems in physical or biological sciences often involve recovering an unknown parameter that is random. The sought-after quantity is a probability distribution of the unknown parameter, that produces data that aligns with measurements. Consequently, these problems are naturally framed as stochastic inverse problems. In this paper, we explore three aspects of this problem: direct inversion, variational formulation with regularization, and optimization via gradient flows, drawing parallels with deterministic inverse problems. A key difference from the deterministic case is the space in which we operate. Here, we work within probability space rather than Euclidean or Sobolev spaces, making tools from measure transport theory necessary for the study. Our findings reveal that the choice of metric -- both in the design of the loss function and in the optimization process -- significantly impacts the stability and properties of the optimizer.</p> </div> </div> </td><td><div class="click-to-reveal"> <button onclick="toggleContent()">Cite</button> <div id="hidden-content" style="display: none;"> <p>```@misc{li2024stochasticinverseproblemstability,
@@ -68,10 +68,10 @@ title: Maria Antonia Oprea
     </tr>
 </table>
 
-
+%%
 
 - [*Optimal Control of Reduced Left-Invariant Hybrid Control Systems*](https://arxiv.org/abs/2403.15610), William Clark, Maria Oprea, CDC 2024
-
+%%
 
 <table>
     <tr>
@@ -88,8 +88,9 @@ Hybrid control systems are an extension of (continuous) control systems by allow
 ``` </p> </div>  </td>
     </tr>
 </table>
-
+%%
 - [*Learning the Delay in Delay Differential Equations*](https://openreview.net/forum?id=VTYhJLoOaR), Robert Stephany, Maria Oprea, Mark Walth, Gabriella Nothaft, Arnaldo Rodriguez-Gonzales, William Clark, ICLR 2024 Workshop on AI4Differential Equations in Science. 
+%%
 <table>
     <tr>
         <td> <div class="click-to-reveal"> <button onclick="toggleContent()">Abstract</button> <div id="hidden-content" style="display: none;"> <p>The intersection of machine learning and dynamical systems has generated considerable interest recently. Neural Ordinary Differential Equations (NODEs) represent a rich overlap between these fields. In this paper, we develop a continuous time neural network approach based on Delay Differential Equations (DDEs). Our model uses the adjoint sensitivity method to learn the model parameters and delay directly from data. Our approach is inspired by that of NODEs and extends earlier neural DDE models, which have assumed that the value of the delay is known a priori. We perform a sensitivity analysis on our proposed approach and demonstrate its ability to learn DDE parameters from benchmark systems. We conclude our discussion with potential future directions and applications.</p> </div> </div> </td><td><div class="click-to-reveal"> <button onclick="toggleContent()">Cite</button> <div id="hidden-content" style="display: none;"> <p>```@inproceedings{
@@ -103,9 +104,9 @@ url={https://openreview.net/forum?id=VTYhJLoOaR}
 ``` </p> </div>  </td>
     </tr>
 </table>
-
+%%
 - [*Optimality of Zeno Executions in Hybrid Systems*](https://ieeexplore.ieee.org/abstract/document/10155928), William Clark and Maria Oprea, American Control Conference, 2023
-
+%%
 <table>
     <tr>
         <td> <div class="click-to-reveal"> <button onclick="toggleContent()">Abstract</button> <div id="hidden-content" style="display: none;"> <p>A unique feature of hybrid dynamical systems (systems whose evolution is subject to both continuous- and discrete-time laws) is Zeno trajectories. Usually these trajectories are avoided as they can cause incorrect numerical results as the problem becomes ill-conditioned. However, these are difficult to justifiably avoid as determining when and where they occur is a non-trivial task. It turns out that in optimal control problems, not only can they not be avoided, but are sometimes required in synthesizing the solutions. This work explores the pedagogical example of the bouncing ball to demonstrate the importance of "Zeno control executions."</p> </div> </div> </td><td><div class="click-to-reveal"> <button onclick="toggleContent()">Cite</button> <div id="hidden-content" style="display: none;"> <p>```@misc{clark2022optimalityzenoexecutionshybrid,
@@ -120,9 +121,9 @@ url={https://openreview.net/forum?id=VTYhJLoOaR}
 ``` </p> </div>  </td>
     </tr>
 </table>
-
+%%
 - [*Optimal Contol of Nonholonomic Systems via Magnetic Fields*](https://ieeexplore.ieee.org/abstract/document/9969876), Maria Oprea, Max Ruth, Dora Kassabova and William Clark, IEEE  Control Systems Letters 7, 793-798, 2022
-
+%%
 <table>
     <tr>
         <td> <div class="click-to-reveal"> <button onclick="toggleContent()">Abstract</button> <div id="hidden-content" style="display: none;"> <p>Geometric optimal control utilizes tools from differential geometry to analyze the structure of a problem to determine the control and state trajectories to reach a desired outcome while minimizing some cost function. For a controlled mechanical system, the control usually manifests as an external force which, if conservative, can be added to the Hamiltonian. In this work, we focus on mechanical systems with controls added to the symplectic form rather than the Hamiltonian. In practice, this translates to controlling the magnetic field for an electrically charged system. We develop a basic theory deriving necessary conditions for optimality of such a system subjected to nonholonomic constraints. We consider the representative example of a magnetically charged Chaplygin Sleigh, whose resulting optimal control problem is completely integrable</p> </div> </div> </td><td><div class="click-to-reveal"> <button onclick="toggleContent()">Cite</button> <div id="hidden-content" style="display: none;"> <p>```@misc{oprea2022optimalcontrolnonholonomicsystems,
@@ -137,9 +138,9 @@ url={https://openreview.net/forum?id=VTYhJLoOaR}
 ``` </p> </div>  </td>
     </tr>
 </table>
-
+%%
 - [*How do we walk? Using hybrid holonomy to approximate non-holonomic systems*](https://ieeexplore.ieee.org/abstract/document/9993246), Maria Oprea, William Clark, CDC 2022
-
+%%
 <table>
     <tr>
         <td> <div class="click-to-reveal"> <button onclick="toggleContent()">Abstract</button> <div id="hidden-content" style="display: none;"> <p>Optimal control is ubiquitous in many fields of engineering. A common technique to find candidate solutions is via Pontryagin's maximum principle. An unfortunate aspect of this method is that the dimension of system doubles. When the system evolves on a Lie group and the system is invariant under left (or right) translations, Lie-Poisson reduction can be applied to eliminate half of the dimensions (and returning the dimension of the problem to the back to the original number).  
@@ -155,8 +156,9 @@ Hybrid control systems are an extension of (continuous) control systems by allow
 ``` </p> </div>  </td>
     </tr>
 </table>
-
+%%
 - [*Optimal Control of Hybrid Systems via Hybrid Lagrangian Submanifolds*](https://www.sciencedirect.com/science/article/pii/S2405896321020838), William Clark, Maria Oprea, 7th IFAC workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control LHMNC 2021
+%%
 <table>
     <tr>
         <td> <div class="click-to-reveal"> <button onclick="toggleContent()">Abstract</button> <div id="hidden-content" style="display: none;"> <p>Why do we move forward when we walk? Our legs undergo periodic motion and thus possess no net change in position; however, our bodies do possess a net change in position and we are propelled forward. From a geometric perspective, this phenomenon of periodic input producing non-periodic output is holonomy. To obtain non-zero holonomy and propel forward, we must alternate which leg is in contact with the ground; a non-zero net motion can be obtained by concatenating arcs that would individually produce no net motion. We develop a framework for computing the holonomy group of hybrid systems and analyze their behavior in the limit as the number of impacts goes to infinity.</p> </div> </div> </td><td><div class="click-to-reveal"> <button onclick="toggleContent()">Cite</button> <div id="hidden-content" style="display: none;"> <p>```William A. Clark, Maria Oprea,
@@ -173,7 +175,7 @@ Keywords: Geometric mechanics; Optimal control; Hybrid Models; Symplectic geomet
 ``` </p> </div>  </td>
     </tr>
 </table>
-
+%%
 ---
 
 ## Teaching
