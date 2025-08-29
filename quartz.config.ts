@@ -15,6 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
+    customCss: ["/custom.css"],
     locale: "en-US",
     baseUrl: "maria.oprea.cc",
     ignorePatterns: ["private", "templates", ".obsidian"],
