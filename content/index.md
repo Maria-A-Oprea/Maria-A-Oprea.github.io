@@ -1,8 +1,7 @@
 ---
-title: ""
+title: "Maria Antonia Oprea"
 ---
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <h1 style="margin: 0;">Maria Antonia Oprea</h1>
   <img src="profile_pic.jpg" 
        alt="Profile picture"
        style="width:60px; height:60px; border-radius:50%;">
