@@ -1,8 +1,15 @@
 ---
-title: Maria Antonia Oprea
+title: ""
 ---
 
-***
+<div style="text-align: center;">
+  <h1 style="display: inline-block; margin: 0; vertical-align: middle;">
+    Maria Antonia Oprea
+  </h1>
+  <img src="profile_pic.jpg" 
+       alt="Profile picture"
+       style="width:60px; height:60px; border-radius:50%; vertical-align: middle; margin-left:10px;">
+</div>
 
 ## Education
 
@@ -23,7 +30,7 @@ title: Maria Antonia Oprea
 ## Publications
 - [The Distributional Koopman Operator for Random Dynamical Systems](https://arxiv.org/abs/2504.11643), Maria Oprea, Alex Townsend, Yunan Yang, to appear in Mathematics of Control, Signals, and Systems, 2025
 
-- [Symplectic Geometry in Hybrid and Impulsive Optimal Control], William Clark and Maria Oprea, to appear in Communications in Analysis and Mechanics, 2025
+- Symplectic Geometry in Hybrid and Impulsive Optimal Control,  William Clark and Maria Oprea, to appear in Communications in Analysis and Mechanics, 2025
 
 - [*A Study of the Long-Term Behavior of Hybrid Systems with Symmetries via Reduction and the Frobenius-Perron Operator*](https://arxiv.org/abs/2111.11645), Maria Oprea, Aden Shaw, Robi Huq, Kaito Iwasaki, Dora Kassabova, and William Clark, SIADS, 2024
 %%
